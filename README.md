@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! I'm Larry 👋
+I am currently working on pinz.ai.
 
 <!--
 **LarryEitel/larryeitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
