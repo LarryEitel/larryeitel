@@ -1,6 +1,6 @@
 ## Hi there! I'm Larry 👋
 - 🔭 I'm currently working on [pinz.ai](https://pinz.ai/).
-- 🌱 I’m currently learning Replicache.
+- 🌱 I’m currently learning [Replicache](https://replicache.dev/).
 - 📫 How to reach me: larry@eitel.com
 
 <!--
